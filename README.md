@@ -11,7 +11,7 @@
 - 🧠 Learning more about **Distributed Systems**, **Kubernetes**, **System Design**, and **Performance Optimization**
 - 🤝 Always open to collaboration and connecting with fellow backend developers
 - 💬 Ask me about **API development**, **Database design**, or **Server optimization**
-- 📫 Reach me at **anthony@example.com** or [LinkedIn](https://linkedin.com/in/anthonyakhil)
+- 📫 Reach me at **kodirekkaanthony4@gmail.com** or [LinkedIn](https://linkedin.com/in/anthonyakhil)
 
 ---
 
@@ -93,7 +93,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/AnthonyKodirekka">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;"  target="_blank" href="mailto:anthony@example.com">
+    <a style="margin-left: 10px;"  target="_blank" href="mailto:kodirekkaanthony4@gmail.com">
       <img width="40" height="40" src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="email"/>
     </a>
 
