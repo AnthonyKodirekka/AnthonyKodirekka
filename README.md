@@ -72,18 +72,6 @@
 </p>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyKodirekka&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyKodirekka&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
