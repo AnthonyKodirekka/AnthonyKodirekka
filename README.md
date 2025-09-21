@@ -4,13 +4,13 @@
 
 ## <picture><img alt="Coder GIF" height=50px width=80px src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" /></picture> **About me**
 
-- 🎓 **Backend Developer** with expertise in building robust server-side applications and scalable APIs
-- 👨‍💻 Passionate about **microservices architecture**, **database optimization**, and **cloud infrastructure**
-- 🔭 Exploring opportunities for **Backend Developer / Software Engineer / DevOps** positions
-- 💡 Specialized in **Node.js**, **Python**, **PostgreSQL**, **MongoDB**, and **AWS** cloud services
-- 🧠 Learning more about **Distributed Systems**, **Kubernetes**, **System Design**, and **Performance Optimization**
-- 🤝 Always open to collaboration and connecting with fellow backend developers
-- 💬 Ask me about **API development**, **Database design**, or **Server optimization**
+- 🎓 **Software Engineer** with 5+ years of experience in building scalable, high-performance systems
+- 👨‍💻 Passionate about **Backend Development**, **microservices architecture**, **database optimization**, and **cloud infrastructure**
+- 🔭 Exploring opportunities for **SDE/ SDE-2/ Full Stack** positions
+- 💡 Specialized in **Java**, **Spring Boot**, **Oracle** and **AWS** cloud services
+- 🧠 Learning more about **Distributed Systems** and **System Design**
+- 🤝 Always open to collaboration and connecting with fellow developers
+- 💬 Ask me about **Backend development**, **Database design**, or **API Integeration**
 - 📫 Reach me at **kodirekkaanthony4@gmail.com** or [LinkedIn](https://linkedin.com/in/anthonyakhil)
 
 ---
